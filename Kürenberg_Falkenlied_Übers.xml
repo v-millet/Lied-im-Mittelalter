@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <author>Der von Kürenberg</author>
+        <title ana="main">Ich zôch mir einen valken</title>
+        <title ana="sub">Übersetzung</title>
+    </teiHeader>
+    <body>
+        <head>
+            <title>Translation</title>
+        </head>
+        <text>
+            <lg n="1">
+                <l n="1">I brought up a falcon for more than a year.</l>
+                <l n="2">When I had him tamed as I wanted</l>
+                <l n="3">And when I had adorned his feathers with gold,</l>
+                <l n="4">He raised himself up high and flew to another land.</l>
+            </lg>
+            <lg n="2">
+                <l n="1">Since then I have seen the falcon flying:</l>
+                <l n="2">He was wearing silken jesses on his feet,</l>
+                <l n="3">And his feathers were all red-gold.</l>
+                <l n="4">May God bring together those who want to love each other!</l>
+            </lg>
+        </text>
+    </body>
+</TEI>

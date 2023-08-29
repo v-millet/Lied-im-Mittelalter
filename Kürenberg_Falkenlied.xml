@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <author>Der von Kürenberg</author>
+        <title ana="main">Ich zôch mir einen valken</title>
+        <title ana="sub">Text</title>
+    </teiHeader>
+    <body>
+        <head>
+            <author>Der von Kürenberg</author>
+            <title>Ich zôch mir einen valken</title>
+        </head>
+        <text>
+            <lg n="1">
+                <l n="1">Ich zôch mir einen valken mêre danne ein jâr.</l>
+                <l n="2">dô ich in gezamete, als ich in wolte hân,</l>
+                <l n="3">und ich im sîn gevidere mit golde wol bewant,</l>
+                <l n="4">er huop sich ûf vil hohe und vlouc in anderiu lant.</l>
+            </lg>
+            <lg n="2">
+                <l n="1">Sît sach ich den valken schône vliegen,</l>
+                <l n="2">er vuorte an sînem vuoze sîdîne riemen,</l>
+                <l n="3">und was im sîn gevidere alrôt guldîn.</l>
+                <l n="4">got sende sî zesamene, die gelieb wellen gerne sîn!</l>
+            </lg>
+        </text>
+    </body>
+</TEI>
